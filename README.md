@@ -1,6 +1,6 @@
 - 👋 Hi, I’m mohd bilal
 - 👀 I’m always learner
-- 🌱 I’m currently working as software specialist in agami technologies pvt ltd
+- 🌱 I’m currently working as software developer in ailoitte technologies pvt ltd
 - 📫 How to reach me at linkedin https://www.linkedin.com/in/mohdbilal1102/
 
 <!---
